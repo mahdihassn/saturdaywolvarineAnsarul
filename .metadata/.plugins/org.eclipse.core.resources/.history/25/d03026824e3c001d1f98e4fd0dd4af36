@@ -1,0 +1,14 @@
+package upskill.ebay.PageElements;
+
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+
+public class EbayHomePageLocators {
+	
+	
+	//search Text Box
+	@FindBy(xpath="//input[@placeholder='Search for anything']")
+	public WebElement txbxSearch;
+	
+	//Search button
+}

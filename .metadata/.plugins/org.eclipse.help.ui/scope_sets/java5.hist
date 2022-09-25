@@ -1,0 +1,6 @@
+#Sat Aug 13 11:26:44 EDT 2022
+__DEFAULT__=false
+org.eclipse.sdk.Eclipse.master=true
+org.eclipse.sdk.Google.master=true
+org.eclipse.help.ui.localSearch.master=true
+expression=java5
